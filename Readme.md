@@ -7,11 +7,11 @@
 
 - 🤖 I have experience with the role of **Computer Vision and Machine Learning Engineer** at **FLUX Robotics**
 
+- 📧 Email **zawwinpaing.zwp@gmail.com**
+
 - 👨‍💻 Portfolio Link [https://barbatosv2.github.io/](https://barbatosv2.github.io/)
 
-- 📫 Email **zawwinpaing.zwp@gmail.com**
-
-- 📄 League Portfolio Link [https://barbatosv2.github.io/league/](https://barbatosv2.github.io/league/)
+- 🎮 League Portfolio Link [https://barbatosv2.github.io/league/](https://barbatosv2.github.io/league/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
