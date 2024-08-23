@@ -13,6 +13,8 @@
 
 - 🎮 League Portfolio Link [https://barbatosv2.github.io/league/](https://barbatosv2.github.io/league/)
 
+![60fps_parrot](https://github.com/user-attachments/assets/f53d7f21-a77c-4fb5-8cb8-25ae4a1e7691)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/zawwinpaing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/zawwinpaing" height="30" width="40" /></a>
