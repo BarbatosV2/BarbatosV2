@@ -9,9 +9,9 @@
 
 - 📧 Email **zawwinpaing.zwp@gmail.com**
 
-- 👨‍💻 Portfolio Link [https://barbatosv2.github.io/](https://barbatosv2.github.io/)
+- 👨‍💻 Portfolio Link [https://barbatosv2.github.io](https://barbatosv2.github.io)
 
-- 🎮 League Portfolio Link [https://barbatosv2.github.io/league/](https://barbatosv2.github.io/league/)
+- 🎮 League Portfolio Link [https://barbatosv2.github.io/league](https://barbatosv2.github.io/league)
 
 ![60fps_parrot](https://github.com/user-attachments/assets/f53d7f21-a77c-4fb5-8cb8-25ae4a1e7691)
 
