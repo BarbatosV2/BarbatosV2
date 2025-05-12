@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **more about Generative AI and Computer Vision**
 
-- 🤖 I have experience with the role of **Computer Vision and Machine Learning Engineer** at **FLUX Robotics** and **Backend and AI (LLM)** at **Ciso Success**
+- 🤖 I have experience with the role of **Computer Vision and Machine Learning Engineer** at **FLUX Robotics**, **AirLabOne** and **Backend and AI (LLM)** at **Ciso Success**
 
 - 📧 Email **zawwinpaing.zwp@gmail.com**
 
